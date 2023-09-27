@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-app-loader-webpart-client-side-solution",
+    "id": "bd0f6403-9bd5-436a-b025-c0cf64a010ea",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-app-loader-webpart.sppkg"
+  }
+}
