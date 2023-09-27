@@ -1,6 +1,7 @@
 ## react-app-loader-webpart
 
-This is where you include your WebPart documentation.
+Permite cargar un css y varios scripts en una webpart  de Sharepoint online y Sharepoint onpremise.
+
 
 ### Building the code
 
@@ -17,10 +18,4 @@ This package produces the following:
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
 
-### Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
