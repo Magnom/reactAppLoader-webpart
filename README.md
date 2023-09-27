@@ -19,4 +19,4 @@ This package produces the following:
 * deploy/* - all resources which should be uploaded to a CDN.
 
 
-..
+...
